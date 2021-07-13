@@ -1,0 +1,5 @@
+name: CustomHoes
+version: ${project.version}
+main: me.swipez.customhoes.CustomHoes
+api-version: 1.17
+authors: [ notnotnotswipez ]
